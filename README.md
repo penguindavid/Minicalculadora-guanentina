@@ -19,5 +19,6 @@ minicalculadora
 "ingrese el valor de y: "
 "seleccione la operacion a realizar: 
 
+
 # diseño
 ![diagramadeflujo](diagrama.png)
