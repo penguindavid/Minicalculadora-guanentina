@@ -33,4 +33,7 @@ if opc == 5:
 if opc == 6:
     print("El valor es: ", math.log(x, y))
 
+else:
+    print("error")
+
 
