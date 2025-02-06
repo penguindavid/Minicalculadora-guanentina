@@ -177,17 +177,15 @@
                 <mxCell id="33" value="r=log&lt;sub&gt;x&lt;/sub&gt;y" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fillStyle=solid;" vertex="1" parent="1">
                     <mxGeometry x="-430" y="1020" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="42" style="edgeStyle=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#FFFFFF;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="35">
+                <mxCell id="42" style="edgeStyle=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#FFFFFF;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="-150" y="1220" as="targetPoint"/>
+                        <mxPoint x="-642.6666666666666" y="1097.3333333333335" as="sourcePoint"/>
                         <Array as="points">
                             <mxPoint x="-650" y="1200"/>
                             <mxPoint x="-150" y="1190"/>
                         </Array>
                     </mxGeometry>
-                </mxCell>
-                <mxCell id="35" value="r==&quot;no valido&quot;" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fillStyle=solid;" vertex="1" parent="1">
-                    <mxGeometry x="-680" y="1020" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="41" style="edgeStyle=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="40" target="40">
                     <mxGeometry relative="1" as="geometry">
@@ -221,6 +219,9 @@
                 </mxCell>
                 <mxCell id="55" value="opc" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;sketch=1;hachureGap=4;jiggle=2;fillStyle=solid;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#ffffff;fillColor=#a20025;strokeColor=#6F0000;" vertex="1" parent="1">
                     <mxGeometry x="240" y="330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="r=&quot;opcion no valida&quot;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;fillStyle=solid;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#ffffff;fillColor=#008a00;strokeColor=#005700;" vertex="1" parent="1">
+                    <mxGeometry x="-700" y="1020" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
